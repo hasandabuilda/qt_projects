@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\crazypoppersapp.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\crazypoppersapp.dir/objects.a @CMakeFiles\crazypoppersapp.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\crazypoppersapp.dir/objects.a -Wl,--no-whole-archive -o crazypoppersapp.exe -Wl,--out-implib,libcrazypoppersapp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\crazypoppersapp.dir\linkLibs.rsp

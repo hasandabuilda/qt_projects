@@ -1,0 +1,419 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "GameEngine",
+            "enums": [
+                {
+                    "isClass": false,
+                    "isFlag": false,
+                    "lineNumber": 41,
+                    "name": "Phase",
+                    "values": [
+                        "Idle",
+                        "Resolving",
+                        "Won",
+                        "Lost"
+                    ]
+                }
+            ],
+            "lineNumber": 21,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 8,
+                    "lineNumber": 67,
+                    "name": "startLevel",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "lineNumber": 68,
+                    "name": "restartLevel",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 10,
+                    "lineNumber": 69,
+                    "name": "nextLevel",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "row",
+                            "type": "int"
+                        },
+                        {
+                            "name": "column",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 11,
+                    "lineNumber": 70,
+                    "name": "tap",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "levelIndex",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 12,
+                    "isConst": true,
+                    "lineNumber": 71,
+                    "name": "bestScore",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 13,
+                    "isConst": true,
+                    "lineNumber": 72,
+                    "name": "levelNameAt",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 14,
+                    "isConst": true,
+                    "lineNumber": 73,
+                    "name": "tapBudgetAt",
+                    "returnType": "int"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 26,
+                    "name": "board",
+                    "override": false,
+                    "read": "board",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "BoardModel*",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 27,
+                    "name": "bullets",
+                    "override": false,
+                    "read": "bullets",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "BulletModel*",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "lineNumber": 28,
+                    "name": "phase",
+                    "notify": "phaseChanged",
+                    "override": false,
+                    "read": "phase",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "Phase",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "lineNumber": 29,
+                    "name": "levelIndex",
+                    "notify": "levelChanged",
+                    "override": false,
+                    "read": "levelIndex",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "lineNumber": 30,
+                    "name": "levelCount",
+                    "override": false,
+                    "read": "levelCount",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "lineNumber": 31,
+                    "name": "levelName",
+                    "notify": "levelChanged",
+                    "override": false,
+                    "read": "levelName",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "lineNumber": 32,
+                    "name": "tapBudget",
+                    "notify": "levelChanged",
+                    "override": false,
+                    "read": "tapBudget",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "lineNumber": 33,
+                    "name": "tapsRemaining",
+                    "notify": "tapsChanged",
+                    "override": false,
+                    "read": "tapsRemaining",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "lineNumber": 34,
+                    "name": "tapsUsed",
+                    "notify": "tapsChanged",
+                    "override": false,
+                    "read": "tapsUsed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 9,
+                    "lineNumber": 35,
+                    "name": "score",
+                    "notify": "scoreChanged",
+                    "override": false,
+                    "read": "score",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 10,
+                    "lineNumber": 36,
+                    "name": "combo",
+                    "notify": "comboChanged",
+                    "override": false,
+                    "read": "combo",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 11,
+                    "lineNumber": 37,
+                    "name": "paused",
+                    "notify": "pausedChanged",
+                    "override": false,
+                    "read": "isPaused",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false,
+                    "write": "setPaused"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 12,
+                    "lineNumber": 38,
+                    "name": "highestUnlockedLevel",
+                    "notify": "highestUnlockedLevelChanged",
+                    "override": false,
+                    "read": "highestUnlockedLevel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "virtual": false
+                }
+            ],
+            "qualifiedClassName": "GameEngine",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 76,
+                    "name": "phaseChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 77,
+                    "name": "levelChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 78,
+                    "name": "tapsChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 79,
+                    "name": "scoreChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "lineNumber": 80,
+                    "name": "comboChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "lineNumber": 81,
+                    "name": "pausedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 6,
+                    "lineNumber": 82,
+                    "name": "highestUnlockedLevelChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "row",
+                            "type": "int"
+                        },
+                        {
+                            "name": "column",
+                            "type": "int"
+                        },
+                        {
+                            "name": "tier",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 7,
+                    "lineNumber": 85,
+                    "name": "popped",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "gameengine.h",
+    "outputRevision": 69
+}

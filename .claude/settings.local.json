@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where qmake *)",
+      "Bash(where cmake *)",
+      "Bash(where qtdiagnostics *)",
+      "Bash(ls \"C:/Qt\" 2>&1; echo \"---\"; ls -la \"C:/Users/ashqe/Documents/qt_projects\" 2>&1)",
+      "Bash(cmake --version)",
+      "Bash(where ninja *)",
+      "Bash(where cl *)",
+      "Bash(git --version)",
+      "Bash(python tools/level_solver.py 7)",
+      "Bash(python tools/level_solver.py 6)",
+      "Bash(python tools/level_solver.py 4)",
+      "mcp__plugin_qt-development-skills_qt-docs__qt_documentation_read",
+      "Bash(/c/Qt/6.11.1/mingw_64/bin/qmltyperegistrar.exe --generate-qmltypes=C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/qml/CrazyPoppers/CrazyPoppers/crazypoppersapp.qmltypes --import-name=CrazyPoppers --major-version=254 --minor-version=254 @C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/qmltypes/crazypoppersapp_foreign_types.txt -o C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/crazypoppersapp_qmltyperegistrations.cpp C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/meta_types/qt6crazypoppersapp_metatypes.json)",
+      "Bash(echo \"exit=$?\")",
+      "PowerShell(Stop-Process -Name \"crazypoppersapp\" -Force -ErrorAction SilentlyContinue)",
+      "PowerShell(\"stopped\")",
+      "Bash(python tools/level_solver.py)"
+    ]
+  }
+}

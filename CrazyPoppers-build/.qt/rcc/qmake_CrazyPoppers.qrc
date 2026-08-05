@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/CrazyPoppers">
+    <file alias="qmldir">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/CrazyPoppers/qmldir</file>
+  </qresource>
+</RCC>
+

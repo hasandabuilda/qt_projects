@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 2000,
+                            "functionName": "color",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 22,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HudStat.qml"
+                }
+            ],
+            "moduleId": "CrazyPoppers(crazypoppersapp)"
+        }
+    ]
+}

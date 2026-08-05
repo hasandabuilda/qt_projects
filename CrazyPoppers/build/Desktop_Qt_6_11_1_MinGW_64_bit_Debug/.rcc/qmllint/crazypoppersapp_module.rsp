@@ -1,0 +1,14 @@
+-I
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug
+-I
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CrazyPoppers
+-I
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug
+-I
+C:/Qt/6.11.1/mingw_64/qml
+--resource
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_CrazyPoppers.qrc
+--resource
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/crazypoppersapp_raw_qml_0.qrc
+--module
+CrazyPoppers

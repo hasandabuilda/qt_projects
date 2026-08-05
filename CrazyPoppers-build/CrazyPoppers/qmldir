@@ -1,0 +1,24 @@
+module CrazyPoppers
+typeinfo crazypoppersapp.qmltypes
+prefer :/qt/qml/CrazyPoppers/
+BoardView 254.0 BoardView.qml
+BottomBar 254.0 BottomBar.qml
+BulletDot 254.0 BulletDot.qml
+CreatureCell 254.0 CreatureCell.qml
+GameLabel 254.0 GameLabel.qml
+GameScreen 254.0 GameScreen.qml
+HudStat 254.0 HudStat.qml
+LevelSelectOverlay 254.0 LevelSelectOverlay.qml
+LevelTile 254.0 LevelTile.qml
+Main 254.0 Main.qml
+OverlayPanel 254.0 OverlayPanel.qml
+PauseButton 254.0 PauseButton.qml
+PauseOverlay 254.0 PauseOverlay.qml
+PopButton 254.0 PopButton.qml
+ResultOverlay 254.0 ResultOverlay.qml
+Shockwave 254.0 Shockwave.qml
+singleton Theme 254.0 Theme.qml
+TopBar 254.0 TopBar.qml
+WoodBackground 254.0 WoodBackground.qml
+depends QtQuick
+

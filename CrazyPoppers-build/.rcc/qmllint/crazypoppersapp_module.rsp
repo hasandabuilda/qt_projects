@@ -1,0 +1,14 @@
+-I
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build
+-I
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/CrazyPoppers
+-I
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build
+-I
+C:/Qt/6.11.1/mingw_64/qml
+--resource
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/.qt/rcc/qmake_CrazyPoppers.qrc
+--resource
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/.qt/rcc/crazypoppersapp_raw_qml_0.qrc
+--module
+CrazyPoppers

@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/qt/qml/CrazyPoppers/">
+    <file alias="BoardView.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BoardView.qml</file>
+    <file alias="BottomBar.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BottomBar.qml</file>
+    <file alias="BulletDot.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BulletDot.qml</file>
+    <file alias="CreatureCell.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/CreatureCell.qml</file>
+    <file alias="GameLabel.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameLabel.qml</file>
+    <file alias="GameScreen.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameScreen.qml</file>
+    <file alias="HudStat.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HudStat.qml</file>
+    <file alias="LevelSelectOverlay.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectOverlay.qml</file>
+    <file alias="LevelTile.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelTile.qml</file>
+    <file alias="Main.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Main.qml</file>
+    <file alias="OverlayPanel.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/OverlayPanel.qml</file>
+    <file alias="PauseButton.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PauseButton.qml</file>
+    <file alias="PauseOverlay.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PauseOverlay.qml</file>
+    <file alias="PopButton.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PopButton.qml</file>
+    <file alias="ResultOverlay.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/ResultOverlay.qml</file>
+    <file alias="Shockwave.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Shockwave.qml</file>
+    <file alias="Theme.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Theme.qml</file>
+    <file alias="TopBar.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/TopBar.qml</file>
+    <file alias="WoodBackground.qml">C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/WoodBackground.qml</file>
+  </qresource>
+</RCC>
+

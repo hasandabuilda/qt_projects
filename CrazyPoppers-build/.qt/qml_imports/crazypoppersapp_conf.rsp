@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers
+-cmake-output
+-output-file
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/.qt/qml_imports/crazypoppersapp_conf.cmake
+-importPath
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build
+-importPath
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/CrazyPoppers
+-importPath
+C:/Qt/6.11.1/mingw_64/qml
+-qrcFiles
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/.qt/rcc/qmake_CrazyPoppers.qrc
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers-build/.qt/rcc/crazypoppersapp_raw_qml_0.qrc
