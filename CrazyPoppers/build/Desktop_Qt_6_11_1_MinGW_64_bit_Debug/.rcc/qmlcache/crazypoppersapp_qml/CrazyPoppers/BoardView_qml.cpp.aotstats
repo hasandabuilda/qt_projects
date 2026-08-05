@@ -34,7 +34,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 19,
+                            "line": 17,
                             "message": ""
                         },
                         {
@@ -42,7 +42,7 @@
                             "column": 17,
                             "durationMicroseconds": 0,
                             "functionName": "height",
-                            "line": 20,
+                            "line": 18,
                             "message": ""
                         },
                         {
@@ -50,7 +50,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "centerIn",
-                            "line": 18,
+                            "line": 16,
                             "message": ""
                         },
                         {
@@ -58,7 +58,7 @@
                             "column": 21,
                             "durationMicroseconds": 0,
                             "functionName": "radius",
-                            "line": 25,
+                            "line": 23,
                             "message": ""
                         },
                         {
@@ -66,7 +66,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 23,
+                            "line": 21,
                             "message": ""
                         },
                         {
@@ -74,7 +74,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "margins",
-                            "line": 24,
+                            "line": 22,
                             "message": ""
                         },
                         {
@@ -82,7 +82,7 @@
                             "column": 20,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 32,
+                            "line": 30,
                             "message": ""
                         },
                         {
@@ -90,7 +90,7 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "cellSize",
-                            "line": 35,
+                            "line": 33,
                             "message": "Cannot access value for name root"
                         },
                         {
@@ -98,7 +98,7 @@
                             "column": 20,
                             "durationMicroseconds": 0,
                             "functionName": "model",
-                            "line": 40,
+                            "line": 38,
                             "message": ""
                         },
                         {
@@ -106,39 +106,15 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "cellSize",
-                            "line": 43,
-                            "message": "Cannot access value for name root"
-                        },
-                        {
-                            "codegenResult": 2,
-                            "column": 27,
-                            "durationMicroseconds": 0,
-                            "functionName": "ringSize",
-                            "line": 53,
+                            "line": 41,
                             "message": "Cannot access value for name root"
                         },
                         {
                             "codegenResult": 0,
-                            "column": 22,
+                            "column": 23,
                             "durationMicroseconds": 0,
-                            "functionName": "enabled",
-                            "line": 59,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 60,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 60,
+                            "functionName": "puffSize",
+                            "line": 49,
                             "message": ""
                         },
                         {
@@ -146,7 +122,39 @@
                             "column": 27,
                             "durationMicroseconds": 0,
                             "functionName": "fill",
-                            "line": 58,
+                            "line": 48,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "enabled",
+                            "line": 54,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 53,
                             "message": ""
                         },
                         {
@@ -154,7 +162,7 @@
                             "column": 17,
                             "durationMicroseconds": 0,
                             "functionName": "target",
-                            "line": 66,
+                            "line": 61,
                             "message": ""
                         },
                         {
@@ -162,7 +170,7 @@
                             "column": 9,
                             "durationMicroseconds": 0,
                             "functionName": "onPopped",
-                            "line": 68,
+                            "line": 63,
                             "message": "Functions without type annotations won't be compiled"
                         }
                     ],

@@ -70,14 +70,17 @@ CMakeFiles/crazypoppersapp_qmlimportscan: .qt/qml_imports/crazypoppersapp_build.
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Qt/6.11.1/mingw_64/bin/qmlimportscanner.exe
 .qt/qml_imports/crazypoppersapp_build.cmake: .qt/rcc/qmake_CrazyPoppers.qrc
 .qt/qml_imports/crazypoppersapp_build.cmake: .qt/rcc/crazypoppersapp_raw_qml_0.qrc
+.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/AppShell.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BoardView.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BottomBar.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BulletDot.qml
+.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Creature.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/CreatureCell.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameLabel.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameScreen.qml
+.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HomeScreen.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HudStat.qml
-.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectOverlay.qml
+.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectScreen.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelTile.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Main.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/OverlayPanel.qml
@@ -85,7 +88,7 @@ CMakeFiles/crazypoppersapp_qmlimportscan: .qt/qml_imports/crazypoppersapp_build.
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PauseOverlay.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PopButton.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/ResultOverlay.qml
-.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Shockwave.qml
+.qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/SmokeLayer.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Theme.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/TopBar.qml
 .qt/qml_imports/crazypoppersapp_build.cmake: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/WoodBackground.qml

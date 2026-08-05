@@ -1,0 +1,222 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CrazyPoppers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-0b4362ffc6d185581d36.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d14bac5c7577634ab61b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-3c2fdcd3da5319dbae4f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-02619e97b6911bb7ce52.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e8db70f98ce2dbd6d3d0.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-308ca155ffed0fe917d8.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp-Debug-a255560abc47ce757bf0.json",
+					"name" : "crazypoppersapp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_autogen-Debug-e897a0b1d641a0bd3e3b.json",
+					"name" : "crazypoppersapp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_autogen_timestamp_deps-Debug-283d2681c33f9f61e7ec.json",
+					"name" : "crazypoppersapp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_copy_qml-Debug-33c620a7e33d6ba027f1.json",
+					"name" : "crazypoppersapp_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_copy_res-Debug-62381576266504ab0165.json",
+					"name" : "crazypoppersapp_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_qmlimportscan-Debug-352b5e701042e7dc72ec.json",
+					"name" : "crazypoppersapp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_qmllint-Debug-242d3d86d13554be12bb.json",
+					"name" : "crazypoppersapp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_qmllint_json-Debug-835f232fa8d02e86a8ba.json",
+					"name" : "crazypoppersapp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_qmllint_module-Debug-95bcc63ba070db2c8123.json",
+					"name" : "crazypoppersapp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "crazypoppersapp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-crazypoppersapp_qmltyperegistration-Debug-e18d52c2250522b0df9c.json",
+					"name" : "crazypoppersapp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-648465c9149c381a02bd.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-a54247606f57f53d7c93.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_crazypoppersapp_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_crazypoppersapp_aotstats_target-Debug-bc405ab54f73ce83be1b.json",
+					"name" : "module_crazypoppersapp_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug",
+		"source" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -11,14 +11,17 @@ C:/Qt/6.11.1/mingw_64/qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_CrazyPoppers.qrc
 --resource
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/crazypoppersapp_raw_qml_0.qrc
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/AppShell.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BoardView.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BottomBar.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BulletDot.qml
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Creature.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/CreatureCell.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameLabel.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameScreen.qml
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HomeScreen.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HudStat.qml
-C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectOverlay.qml
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectScreen.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelTile.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Main.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/OverlayPanel.qml
@@ -26,7 +29,7 @@ C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PauseButton.q
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PauseOverlay.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PopButton.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/ResultOverlay.qml
-C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Shockwave.qml
+C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/SmokeLayer.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Theme.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/TopBar.qml
 C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/WoodBackground.qml

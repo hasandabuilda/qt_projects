@@ -10,7 +10,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 13,
+                            "line": 14,
                             "message": ""
                         },
                         {
@@ -18,7 +18,7 @@
                             "column": 30,
                             "durationMicroseconds": 0,
                             "functionName": "horizontalAlignment",
-                            "line": 14,
+                            "line": 15,
                             "message": ""
                         },
                         {
@@ -26,7 +26,7 @@
                             "column": 16,
                             "durationMicroseconds": 2000,
                             "functionName": "color",
-                            "line": 16,
+                            "line": 17,
                             "message": ""
                         },
                         {
@@ -34,7 +34,7 @@
                             "column": 15,
                             "durationMicroseconds": 0,
                             "functionName": "text",
-                            "line": 17,
+                            "line": 18,
                             "message": ""
                         },
                         {
@@ -42,7 +42,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 21,
+                            "line": 22,
                             "message": ""
                         },
                         {
@@ -50,7 +50,7 @@
                             "column": 20,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 24,
+                            "line": 25,
                             "message": ""
                         },
                         {
@@ -58,7 +58,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 28,
+                            "line": 29,
                             "message": ""
                         },
                         {
@@ -66,7 +66,7 @@
                             "column": 20,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 30,
+                            "line": 31,
                             "message": ""
                         },
                         {
@@ -74,7 +74,7 @@
                             "column": 16,
                             "durationMicroseconds": 0,
                             "functionName": "width",
-                            "line": 34,
+                            "line": 35,
                             "message": ""
                         },
                         {
@@ -82,7 +82,23 @@
                             "column": 20,
                             "durationMicroseconds": 0,
                             "functionName": "onClicked",
-                            "line": 37,
+                            "line": 38,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 45,
                             "message": ""
                         }
                     ],

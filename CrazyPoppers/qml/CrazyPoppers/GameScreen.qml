@@ -5,18 +5,13 @@ Item {
 
     required property GameEngine game
 
-    property bool levelSelectOpen: false
+    signal levelsRequested()
+    signal homeRequested()
 
     focus: true
     Keys.onEscapePressed: {
-        if (screen.levelSelectOpen)
-            screen.levelSelectOpen = false;
-        else if (screen.game.phase === GameEngine.Idle || screen.game.phase === GameEngine.Resolving)
+        if (screen.game.phase === GameEngine.Idle || screen.game.phase === GameEngine.Resolving)
             screen.game.paused = !screen.game.paused;
-    }
-
-    WoodBackground {
-        anchors.fill: parent
     }
 
     TopBar {
@@ -49,21 +44,14 @@ Item {
 
     Loader {
         anchors.fill: parent
-        active: !screen.levelSelectOpen
-                && (screen.game.phase === GameEngine.Won || screen.game.phase === GameEngine.Lost)
+        active: screen.game.phase === GameEngine.Won || screen.game.phase === GameEngine.Lost
         sourceComponent: resultComponent
     }
 
     Loader {
         anchors.fill: parent
-        active: screen.game.paused && !screen.levelSelectOpen
+        active: screen.game.paused
         sourceComponent: pauseComponent
-    }
-
-    Loader {
-        anchors.fill: parent
-        active: screen.levelSelectOpen
-        sourceComponent: levelsComponent
     }
 
     Component {
@@ -71,7 +59,7 @@ Item {
 
         ResultOverlay {
             game: screen.game
-            onLevelsRequested: screen.levelSelectOpen = true
+            onLevelsRequested: screen.levelsRequested()
         }
     }
 
@@ -80,19 +68,8 @@ Item {
 
         PauseOverlay {
             game: screen.game
-            onLevelsRequested: screen.levelSelectOpen = true
-        }
-    }
-
-    Component {
-        id: levelsComponent
-
-        LevelSelectOverlay {
-            game: screen.game
-            onClosed: {
-                screen.levelSelectOpen = false;
-                screen.game.paused = false;
-            }
+            onLevelsRequested: screen.levelsRequested()
+            onHomeRequested: screen.homeRequested()
         }
     }
 }

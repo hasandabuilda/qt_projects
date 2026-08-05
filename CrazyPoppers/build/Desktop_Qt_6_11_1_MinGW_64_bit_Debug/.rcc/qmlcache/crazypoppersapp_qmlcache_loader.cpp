@@ -5,6 +5,13 @@
 #include <QtCore/qstring.h>
 
 namespace QmlCacheGeneratedCode {
+namespace _qt_qml_CrazyPoppers_AppShell_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 namespace _qt_qml_CrazyPoppers_BoardView_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
@@ -20,6 +27,13 @@ namespace _qt_qml_CrazyPoppers_BottomBar_qml {
     };
 }
 namespace _qt_qml_CrazyPoppers_BulletDot_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_CrazyPoppers_Creature_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -47,6 +61,13 @@ namespace _qt_qml_CrazyPoppers_GameScreen_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qt_qml_CrazyPoppers_HomeScreen_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 namespace _qt_qml_CrazyPoppers_HudStat_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
@@ -54,7 +75,7 @@ namespace _qt_qml_CrazyPoppers_HudStat_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_CrazyPoppers_LevelSelectOverlay_qml { 
+namespace _qt_qml_CrazyPoppers_LevelSelectScreen_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -110,7 +131,7 @@ namespace _qt_qml_CrazyPoppers_ResultOverlay_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_CrazyPoppers_Shockwave_qml { 
+namespace _qt_qml_CrazyPoppers_SmokeLayer_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -152,14 +173,17 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 
 Registry::Registry() {
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/AppShell.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_AppShell_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/BoardView.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_BoardView_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/BottomBar.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_BottomBar_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/BulletDot.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_BulletDot_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/Creature.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_Creature_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/CreatureCell.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_CreatureCell_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/GameLabel.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_GameLabel_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/GameScreen.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_GameScreen_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/HomeScreen.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_HomeScreen_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/HudStat.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_HudStat_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/LevelSelectOverlay.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_LevelSelectOverlay_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/LevelSelectScreen.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_LevelSelectScreen_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/LevelTile.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_LevelTile_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_Main_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/OverlayPanel.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_OverlayPanel_qml::unit);
@@ -167,7 +191,7 @@ Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/PauseOverlay.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_PauseOverlay_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/PopButton.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_PopButton_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/ResultOverlay.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_ResultOverlay_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/Shockwave.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_Shockwave_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/SmokeLayer.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_SmokeLayer_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/Theme.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_Theme_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/TopBar.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_TopBar_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/CrazyPoppers/WoodBackground.qml"), &QmlCacheGeneratedCode::_qt_qml_CrazyPoppers_WoodBackground_qml::unit);

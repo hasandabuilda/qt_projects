@@ -410,6 +410,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.cpp.s
 
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.obj
+
+# target to build an object file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.obj
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.i
+
+# target to preprocess a source file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.i
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.s
+
+# target to generate assembly for a file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.s
+
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.obj
 
@@ -506,6 +530,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/Cra
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.cpp.s
 
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.obj
+
+# target to build an object file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.obj
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.i
+
+# target to preprocess a source file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.i
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.s
+
+# target to generate assembly for a file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.s
+
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.obj
 
@@ -554,6 +602,30 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/Cra
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.cpp.s
 
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.obj
+
+# target to build an object file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.obj
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.i
+
+# target to preprocess a source file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.i
+
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.s
+
+# target to generate assembly for a file
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.s
+
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.obj
 
@@ -578,29 +650,29 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/Cra
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.cpp.s
 
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.obj
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.obj
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.obj
 
 # target to build an object file
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.obj
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.obj
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.obj
 
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.i
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.i
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.i
 
 # target to preprocess a source file
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.i
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.i
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.i
 
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.s
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.s
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.s
 
 # target to generate assembly for a file
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.s
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.cpp.s
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.s
 
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.obj
@@ -770,29 +842,29 @@ build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/Cra
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.cpp.s
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.cpp.s
 
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.obj
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.obj
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.obj
 
 # target to build an object file
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.obj
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.obj
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.obj
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.obj
 
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.i
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.i
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.i: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.i
 
 # target to preprocess a source file
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.i
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.i
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.i
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.i
 
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.s
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.s
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.s: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.s
 
 # target to generate assembly for a file
-build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.s
-.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.cpp.s
+build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\crazypoppersapp.dir\build.make CMakeFiles/crazypoppersapp.dir/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.s
+.PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.s
 
 build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.obj: build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.cpp.obj
 .PHONY : build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.obj
@@ -1091,6 +1163,9 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.s
@@ -1103,18 +1178,24 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.s
-	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.obj
-	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.i
-	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectOverlay_qml.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.s
@@ -1136,9 +1217,9 @@ help:
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.s
-	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.obj
-	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.i
-	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Shockwave_qml.s
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.obj
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.i
+	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.s
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.obj
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.i
 	@echo ... build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.s

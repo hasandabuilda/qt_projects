@@ -29,14 +29,17 @@ qt_add_executable(crazypoppersapp
 target_include_directories(crazypoppersapp PRIVATE src)
 
 set(crazypoppers_qml_files
+    qml/CrazyPoppers/AppShell.qml
     qml/CrazyPoppers/BoardView.qml
     qml/CrazyPoppers/BottomBar.qml
     qml/CrazyPoppers/BulletDot.qml
+    qml/CrazyPoppers/Creature.qml
     qml/CrazyPoppers/CreatureCell.qml
     qml/CrazyPoppers/GameLabel.qml
     qml/CrazyPoppers/GameScreen.qml
+    qml/CrazyPoppers/HomeScreen.qml
     qml/CrazyPoppers/HudStat.qml
-    qml/CrazyPoppers/LevelSelectOverlay.qml
+    qml/CrazyPoppers/LevelSelectScreen.qml
     qml/CrazyPoppers/LevelTile.qml
     qml/CrazyPoppers/Main.qml
     qml/CrazyPoppers/OverlayPanel.qml
@@ -44,7 +47,7 @@ set(crazypoppers_qml_files
     qml/CrazyPoppers/PauseOverlay.qml
     qml/CrazyPoppers/PopButton.qml
     qml/CrazyPoppers/ResultOverlay.qml
-    qml/CrazyPoppers/Shockwave.qml
+    qml/CrazyPoppers/SmokeLayer.qml
     qml/CrazyPoppers/Theme.qml
     qml/CrazyPoppers/TopBar.qml
     qml/CrazyPoppers/WoodBackground.qml

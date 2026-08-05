@@ -6,6 +6,7 @@ OverlayPanel {
     required property GameEngine game
 
     signal levelsRequested()
+    signal homeRequested()
 
     title: qsTr("PAUSED")
 
@@ -35,5 +36,12 @@ OverlayPanel {
         tint: "#96693c"
         text: qsTr("LEVELS")
         onClicked: overlay.levelsRequested()
+    }
+
+    PopButton {
+        width: parent.width
+        tint: "#96693c"
+        text: qsTr("HOME")
+        onClicked: overlay.homeRequested()
     }
 }

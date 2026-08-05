@@ -68,14 +68,17 @@ include CMakeFiles/crazypoppersapp_copy_qml.dir/progress.make
 CMakeFiles/crazypoppersapp_copy_qml: .qt/crazypoppersapp_qml.txt
 
 .qt/crazypoppersapp_qml.txt: C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake
+.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/AppShell.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BoardView.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BottomBar.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/BulletDot.qml
+.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Creature.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/CreatureCell.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameLabel.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/GameScreen.qml
+.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HomeScreen.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/HudStat.qml
-.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectOverlay.qml
+.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelSelectScreen.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/LevelTile.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Main.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/OverlayPanel.qml
@@ -83,7 +86,7 @@ CMakeFiles/crazypoppersapp_copy_qml: .qt/crazypoppersapp_qml.txt
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PauseOverlay.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/PopButton.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/ResultOverlay.qml
-.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Shockwave.qml
+.qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/SmokeLayer.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/Theme.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/TopBar.qml
 .qt/crazypoppersapp_qml.txt: C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/qml/CrazyPoppers/WoodBackground.qml

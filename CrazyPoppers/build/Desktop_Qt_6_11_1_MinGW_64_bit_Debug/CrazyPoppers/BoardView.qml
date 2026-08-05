@@ -10,8 +10,6 @@ Item {
     readonly property real cellSize: Math.min(width / Math.max(columns, 1),
                                               height / Math.max(rows, 1))
 
-    property int waveCursor: 0
-
     Item {
         id: grid
 
@@ -44,14 +42,11 @@ Item {
             }
         }
 
-        Repeater {
-            id: shockwaves
+        SmokeLayer {
+            id: smoke
 
-            model: 16
-
-            delegate: Shockwave {
-                ringSize: root.cellSize * 0.95
-            }
+            anchors.fill: parent
+            puffSize: root.cellSize
         }
 
         MouseArea {
@@ -66,13 +61,7 @@ Item {
         target: root.game
 
         function onPopped(row, column, tier) {
-            const wave = shockwaves.itemAt(root.waveCursor);
-            root.waveCursor = (root.waveCursor + 1) % shockwaves.count;
-            if (wave) {
-                wave.burst((column + 0.5) * root.cellSize,
-                           (row + 0.5) * root.cellSize,
-                           Theme.tierColor[tier]);
-            }
+            smoke.puff((column + 0.5) * root.cellSize, (row + 0.5) * root.cellSize);
         }
     }
 }

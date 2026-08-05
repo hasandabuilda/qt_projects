@@ -15,7 +15,7 @@ Window {
         id: engine
     }
 
-    GameScreen {
+    AppShell {
         anchors.fill: parent
         game: engine
     }

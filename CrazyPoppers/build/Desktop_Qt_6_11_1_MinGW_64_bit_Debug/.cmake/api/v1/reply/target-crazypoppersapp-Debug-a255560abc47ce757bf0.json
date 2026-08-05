@@ -1,0 +1,2069 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "crazypoppersapp.exe"
+		},
+		{
+			"path" : "crazypoppersapp.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"add_dependencies",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"_qt_internal_write_deferred_qmlls_build_ini_file",
+			"add_compile_definitions",
+			"project",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"set_source_files_properties",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt6_target_qml_sources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"_qt_internal_finalize_windows_app"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:867:EVAL",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1179:EVAL",
+			"build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
+			"C:/Qt/6.11.1/mingw_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1033,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 687,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 766,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 235,
+				"parent" : 6
+			},
+			{
+				"file" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 8
+			},
+			{
+				"file" : 2,
+				"parent" : 9
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 61,
+				"parent" : 10
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 40,
+				"parent" : 8
+			},
+			{
+				"file" : 9,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 9,
+				"line" : 50,
+				"parent" : 13
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 15
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 254,
+				"parent" : 16
+			},
+			{
+				"file" : 6,
+				"parent" : 17
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 55,
+				"parent" : 18
+			},
+			{
+				"file" : 5,
+				"parent" : 19
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 61,
+				"parent" : 20
+			},
+			{
+				"command" : 11,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 10,
+				"line" : 1507,
+				"parent" : 22
+			},
+			{
+				"command" : 4,
+				"file" : 10,
+				"line" : 693,
+				"parent" : 23
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 25
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 254,
+				"parent" : 26
+			},
+			{
+				"file" : 12,
+				"parent" : 27
+			},
+			{
+				"command" : 6,
+				"file" : 12,
+				"line" : 58,
+				"parent" : 28
+			},
+			{
+				"file" : 11,
+				"parent" : 29
+			},
+			{
+				"command" : 5,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 30
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 688,
+				"parent" : 2
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 14
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 254,
+				"parent" : 34
+			},
+			{
+				"file" : 14,
+				"parent" : 35
+			},
+			{
+				"command" : 6,
+				"file" : 14,
+				"line" : 57,
+				"parent" : 36
+			},
+			{
+				"file" : 13,
+				"parent" : 37
+			},
+			{
+				"command" : 5,
+				"file" : 13,
+				"line" : 61,
+				"parent" : 38
+			},
+			{
+				"command" : 6,
+				"file" : 12,
+				"line" : 43,
+				"parent" : 28
+			},
+			{
+				"file" : 17,
+				"parent" : 40
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 50,
+				"parent" : 41
+			},
+			{
+				"command" : 8,
+				"file" : 8,
+				"line" : 142,
+				"parent" : 42
+			},
+			{
+				"command" : 7,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 43
+			},
+			{
+				"command" : 7,
+				"file" : 4,
+				"line" : 254,
+				"parent" : 44
+			},
+			{
+				"file" : 16,
+				"parent" : 45
+			},
+			{
+				"command" : 6,
+				"file" : 16,
+				"line" : 55,
+				"parent" : 46
+			},
+			{
+				"file" : 15,
+				"parent" : 47
+			},
+			{
+				"command" : 5,
+				"file" : 15,
+				"line" : 61,
+				"parent" : 48
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 17,
+				"file" : 18,
+				"line" : 1,
+				"parent" : 50
+			},
+			{
+				"command" : 16,
+				"file" : 0,
+				"line" : 898,
+				"parent" : 51
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 818,
+				"parent" : 52
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 818,
+				"parent" : 53
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 4921,
+				"parent" : 54
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 4696,
+				"parent" : 55
+			},
+			{
+				"command" : 18,
+				"file" : 10,
+				"line" : 1051,
+				"parent" : 23
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 3223,
+				"parent" : 57
+			},
+			{
+				"command" : 19,
+				"file" : 19,
+				"line" : 1,
+				"parent" : 50
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 1477,
+				"parent" : 59
+			},
+			{
+				"command" : 18,
+				"file" : 10,
+				"line" : 1045,
+				"parent" : 23
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 3223,
+				"parent" : 61
+			},
+			{
+				"command" : 21,
+				"file" : 1,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"file" : 20,
+				"parent" : 63
+			},
+			{
+				"command" : 20,
+				"file" : 20,
+				"line" : 82,
+				"parent" : 64
+			},
+			{
+				"command" : 22,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 910,
+				"parent" : 23
+			},
+			{
+				"command" : 22,
+				"file" : 10,
+				"line" : 4356,
+				"parent" : 67
+			},
+			{
+				"command" : 22,
+				"file" : 10,
+				"line" : 4386,
+				"parent" : 67
+			},
+			{
+				"command" : 25,
+				"file" : 10,
+				"line" : 4181,
+				"parent" : 67
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 1613,
+				"parent" : 70
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 4347,
+				"parent" : 67
+			},
+			{
+				"command" : 26,
+				"file" : 10,
+				"line" : 4378,
+				"parent" : 67
+			},
+			{
+				"command" : 29,
+				"file" : 10,
+				"line" : 962,
+				"parent" : 23
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 419,
+				"parent" : 74
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2659,
+				"parent" : 75
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2199,
+				"parent" : 76
+			},
+			{
+				"command" : 30,
+				"file" : 10,
+				"line" : 1035,
+				"parent" : 23
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 31,
+				"file" : 10,
+				"line" : 3831,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 1974,
+				"parent" : 80
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3694,
+				"parent" : 78
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3887,
+				"parent" : 78
+			},
+			{
+				"command" : 29,
+				"file" : 10,
+				"line" : 3979,
+				"parent" : 78
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 419,
+				"parent" : 125
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2659,
+				"parent" : 126
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2199,
+				"parent" : 127
+			},
+			{
+				"command" : 32,
+				"file" : 0,
+				"line" : 892,
+				"parent" : 51
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2324,
+				"parent" : 129
+			},
+			{
+				"command" : 33,
+				"file" : 0,
+				"line" : 835,
+				"parent" : 52
+			},
+			{
+				"command" : 24,
+				"file" : 21,
+				"line" : 126,
+				"parent" : 131
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 32,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 65,
+					"define" : "QT_QML_DEBUG"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QUICKCONTROLS2_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_autogen/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/src"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQml"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtGui"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQuickControls2"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					32,
+					32
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				6,
+				8,
+				12,
+				14,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				58
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 73,
+					"fragment" : "-Wa,-mbig-obj"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 32,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 65,
+					"define" : "QT_QML_DEBUG"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QUICKCONTROLS2_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_autogen/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers/src"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/ashqe/Documents/qt_projects/CrazyPoppers"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQml"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 69,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtGui"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.11.1/mingw_64/include/QtQuickControls2"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					32,
+					32
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				11
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 56,
+			"id" : "crazypoppersapp_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 58,
+			"id" : "crazypoppersapp_copy_res::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 60,
+			"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "crazypoppersapp_copy_qml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "crazypoppersapp_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "crazypoppersapp_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "crazypoppersapp::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6QuickControls2.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6Quick.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6OpenGL.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-luser32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "-ldxguid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "-ld3d12",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6Qml.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6Network.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "C:\\Qt\\6.11.1\\mingw_64\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 49,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "-lshell32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "crazypoppersapp",
+	"nameOnDisk" : "crazypoppersapp.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				10,
+				11,
+				12,
+				14,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				58,
+				59,
+				61,
+				63,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				4,
+				6,
+				8,
+				13,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				32,
+				34,
+				36,
+				38,
+				40,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				54,
+				56
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				7,
+				9
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				60
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				62
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/boardmodel.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/boardmodel.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/bulletmodel.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/bulletmodel.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/gameengine.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/gameengine.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/leveldata.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "src/leveldata.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 71,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/qt6crazypoppersapp_metatypes.json.gen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 72,
+			"compileGroupIndex" : 1,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 77,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 79,
+			"path" : "qml/CrazyPoppers/AppShell.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 81,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 82,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 83,
+			"path" : "qml/CrazyPoppers/BoardView.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 84,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 85,
+			"path" : "qml/CrazyPoppers/BottomBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BottomBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 87,
+			"path" : "qml/CrazyPoppers/BulletDot.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 88,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BulletDot_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "qml/CrazyPoppers/Creature.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 90,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 91,
+			"path" : "qml/CrazyPoppers/CreatureCell.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 92,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 93,
+			"path" : "qml/CrazyPoppers/GameLabel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 94,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 95,
+			"path" : "qml/CrazyPoppers/GameScreen.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 96,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 97,
+			"path" : "qml/CrazyPoppers/HomeScreen.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 98,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 99,
+			"path" : "qml/CrazyPoppers/HudStat.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 100,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 101,
+			"path" : "qml/CrazyPoppers/LevelSelectScreen.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 102,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 103,
+			"path" : "qml/CrazyPoppers/LevelTile.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 104,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 105,
+			"path" : "qml/CrazyPoppers/Main.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 106,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Main_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 107,
+			"path" : "qml/CrazyPoppers/OverlayPanel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 108,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/OverlayPanel_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 109,
+			"path" : "qml/CrazyPoppers/PauseButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 110,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/PauseButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 111,
+			"path" : "qml/CrazyPoppers/PauseOverlay.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 112,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/PauseOverlay_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 113,
+			"path" : "qml/CrazyPoppers/PopButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 114,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/PopButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 115,
+			"path" : "qml/CrazyPoppers/ResultOverlay.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 116,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 117,
+			"path" : "qml/CrazyPoppers/SmokeLayer.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 118,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 119,
+			"path" : "qml/CrazyPoppers/Theme.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 120,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 121,
+			"path" : "qml/CrazyPoppers/TopBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 122,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/TopBar_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 123,
+			"path" : "qml/CrazyPoppers/WoodBackground.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 124,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/WoodBackground_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 128,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_crazypoppersapp_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 130,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qmake_CrazyPoppers.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 130,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CrazyPoppers/qmldir",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 130,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/crazypoppersapp_raw_qml_0.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 132,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp.exe.manifest",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/qt6crazypoppersapp_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_qmake_CrazyPoppers.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/AppShell_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BoardView_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BottomBar_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/BulletDot_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Creature_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/CreatureCell_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameLabel_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/GameScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HomeScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/HudStat_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelSelectScreen_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/LevelTile_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Main_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/OverlayPanel_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/PauseButton_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/PauseOverlay_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/PopButton_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/ResultOverlay_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/SmokeLayer_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/Theme_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/TopBar_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.rcc/qmlcache/crazypoppersapp_qml/CrazyPoppers/WoodBackground_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/.qt/rcc/qrc_crazypoppersapp_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/crazypoppersapp_autogen/timestamp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/crazypoppersapp_json_file_list.txt.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/meta_types/qt6crazypoppersapp_metatypes.json.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 32,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6core_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6qml_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6network_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6quick_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6gui_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6opengl_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"path" : "C:/Qt/6.11.1/mingw_64/metatypes/qt6quickcontrols2_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
