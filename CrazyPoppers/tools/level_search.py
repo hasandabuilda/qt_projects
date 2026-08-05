@@ -55,7 +55,7 @@ def main() -> int:
         state = mirrored(rng, rows, density, weights, vertical)
 
         creatures = sum(1 for v in state if v)
-        if creatures < 24:
+        if creatures < 12:
             continue
         if state in found:
             continue
