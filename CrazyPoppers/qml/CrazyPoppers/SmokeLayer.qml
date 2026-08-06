@@ -40,11 +40,11 @@ Item {
 
         system: system
         enabled: false
-        lifeSpan: 1100
-        lifeSpanVariation: 400
-        size: layer.puffSize * 0.28
-        endSize: layer.puffSize * 1.0
-        sizeVariation: layer.puffSize * 0.24
+        lifeSpan: 450
+        lifeSpanVariation: 150
+        size: layer.puffSize * 0.14
+        endSize: layer.puffSize * 0.7
+        sizeVariation: layer.puffSize * 0.12
         velocity: AngleDirection {
             angleVariation: 360
             magnitude: 38
