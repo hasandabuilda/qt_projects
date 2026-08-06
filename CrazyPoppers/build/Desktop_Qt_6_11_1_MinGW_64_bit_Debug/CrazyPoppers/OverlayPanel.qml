@@ -13,9 +13,11 @@ Item {
     }
 
     // Swallows taps so the board underneath stays untouched.
+    /*
     MouseArea {
         anchors.fill: parent
     }
+    */
 
     Rectangle {
         id: panel

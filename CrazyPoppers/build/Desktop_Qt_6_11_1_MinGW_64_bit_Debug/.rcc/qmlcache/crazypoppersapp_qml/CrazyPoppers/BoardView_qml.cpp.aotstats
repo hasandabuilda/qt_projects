@@ -130,31 +130,23 @@
                             "column": 22,
                             "durationMicroseconds": 0,
                             "functionName": "enabled",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "onTapped",
                             "line": 54,
                             "message": ""
                         },
                         {
                             "codegenResult": 0,
-                            "column": 24,
+                            "column": 23,
                             "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 55,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 24,
-                            "durationMicroseconds": 0,
-                            "functionName": "onClicked",
-                            "line": 55,
-                            "message": ""
-                        },
-                        {
-                            "codegenResult": 0,
-                            "column": 27,
-                            "durationMicroseconds": 0,
-                            "functionName": "fill",
-                            "line": 53,
+                            "functionName": "onTapped",
+                            "line": 54,
                             "message": ""
                         },
                         {
@@ -162,7 +154,7 @@
                             "column": 17,
                             "durationMicroseconds": 0,
                             "functionName": "target",
-                            "line": 61,
+                            "line": 60,
                             "message": ""
                         },
                         {
@@ -170,7 +162,7 @@
                             "column": 9,
                             "durationMicroseconds": 0,
                             "functionName": "onPopped",
-                            "line": 63,
+                            "line": 62,
                             "message": "Functions without type annotations won't be compiled"
                         }
                     ],

@@ -49,11 +49,10 @@ Item {
             puffSize: root.cellSize
         }
 
-        MouseArea {
-            anchors.fill: parent
+        TapHandler {
             enabled: root.game.phase === GameEngine.Idle && !root.game.paused
-            onClicked: mouse => root.game.tap(Math.floor(mouse.y / root.cellSize),
-                                              Math.floor(mouse.x / root.cellSize))
+            onTapped: (eventPoint) => root.game.tap(Math.floor(eventPoint.position.y / root.cellSize),
+                                                    Math.floor(eventPoint.position.x / root.cellSize))
         }
     }
 
