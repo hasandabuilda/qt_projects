@@ -22,7 +22,7 @@ Item {
         height: creature.diameter
         x: ball.x
         y: ball.y + creature.diameter * 0.06
-        radius: width / 2
+        radius: width / 3
         color: "#42000000"
     }
 
@@ -32,7 +32,7 @@ Item {
         anchors.centerIn: parent
         width: creature.diameter
         height: creature.diameter
-        radius: width / 2
+        radius: width / 3
         border.width: Math.max(1, width * 0.035)
         border.color: Qt.darker(creature.tint, 1.65)
         gradient: Gradient {

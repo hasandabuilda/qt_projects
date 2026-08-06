@@ -16,7 +16,7 @@
                         {
                             "codegenResult": 0,
                             "column": 38,
-                            "durationMicroseconds": 0,
+                            "durationMicroseconds": 1000,
                             "functionName": "diameter",
                             "line": 16,
                             "message": ""
